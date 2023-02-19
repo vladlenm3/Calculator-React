@@ -14,10 +14,8 @@ This is a single web page application. It has an empty HTML container that is dy
 There are three components that generated automatically: square, input field, and calculator that combines all the components
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used Visual Studio Code as my development environment.
+The programming languages and libraries: JavaScript, HTML, CSS, React.js, node-modules. 
 
 # Useful Websites
 * [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
@@ -25,7 +23,6 @@ There are three components that generated automatically: square, input field, an
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I would like to add more components to my calculator in the future.
+* Include more features using Math JavaScript object.
+* Add one more page with another calculator for scientific purposes.
