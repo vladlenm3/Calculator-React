@@ -19,10 +19,8 @@
 {Describe the programming language that you used and any libraries.}
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+* [React Tutorial](https://www.w3schools.com/REACT/DEFAULT.ASP)
 
 # Future Work
 
