@@ -1,16 +1,17 @@
 # Overview
+I chose this project to practice writing dynamic web applications with React.js framework.
+This project is a simple calculator web app. The calculator is fully functional and interactive. It 
+takes an input from a user and has the same functionalities as the default calculators 
+that are pre-installed on our devices. The calculator also has a clear and delete functions 
+and works on different screen sizes.
+To start the programm:
+-nmp run start VS code command. This command will start a local server on your machine.
 
-
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Calculator React Project](http://youtube.link.goes.here)
 
 # Web Pages
-
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+This is a single web page application. It has an empty HTML container that is dynamically populated with React.
+There are three components that generated automatically: square, input field, and calculator that combines all the components
 
 # Development Environment
 
